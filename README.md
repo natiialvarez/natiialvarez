@@ -1,6 +1,6 @@
 ### Hey, hey! Me chamo Natália, sou programadora BackEnd! 👋
 
-- Estou cursando para me formar como Desenvolvedor BackEnd.
+- Estou cursando para me torna uma Desenvolvedora BackEnd.
 - 🌱 Atualmente estou estudando TypeScript, Node.js, SQL e Git.
 - 📫 Contate-me no email: natalia.fsalvarez@gmail.com
 - 😄 Pronomes: ela/dela
