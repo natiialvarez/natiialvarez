@@ -1,10 +1,10 @@
-### Hey, hey! My name is Natália, and I'm almost a Backend development ! 👋
+### Hey, hey! My name is Natália, and I'm almost a Backend developer ! 👋
 Desenvolvedor de Software Back-end ( Node.js | Typescript | SQL | Git )
 
-- Currently studying to be a Backend development .
+- Currently studying to be a Backend developer .
 - 🌱 Currently studying TypeScript, Node.js, SQL e Git.
 - 📫 Be free to contact me in: natalia.fsalvarez@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 - ⚡ Graduated in Byology, passionate about games, books, movies, series and good talks!
 
 <div>
