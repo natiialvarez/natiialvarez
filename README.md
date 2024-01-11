@@ -24,9 +24,7 @@ Desenvolvedor de Software Back-end ( Node.js | Typescript | SQL | Git ) e futura
 	<a href="https://www.linkedin.com/in/natiialvarez/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="nati3823">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-	</a>
+	
 </div>
 
 ### 🚀 Skill's:
