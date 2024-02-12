@@ -1,4 +1,4 @@
-### Hey, hey! My name is Natália, and I'm almost a Backend developer ! 👋
+### Hey, hey! My name is Natália, and I'm a Backend developer and studying to be a FullStack! 👋
 Desenvolvedor de Software Back-end ( Node.js | Typescript | SQL | Git ) e futuramente Front-End (HTML | CSS )
 
 - Currently studying to be a Backend developer .
