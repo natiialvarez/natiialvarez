@@ -1,7 +1,7 @@
 ### Hey, hey! My name is Natália, and I'm a Backend developer and studying to be a FullStack! 👋
 Desenvolvedor de Software Back-end ( Node.js | Typescript | SQL | Git ) e futuramente Front-End (HTML | CSS )
 
-- Currently studying to be a Backend developer .
+- Backend developer .
 - 🌱 Currently studying TypeScript, Node.js, SQL e Git.
 - 🌱 On the way to be a Front-end too with CSS and HTML!
 - 📫 Be free to contact me in: natalia.fsalvarez@gmail.com
